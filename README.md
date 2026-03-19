@@ -5,7 +5,7 @@ Neste projeto utilizamos um esp32 para fazer um watchdog de conectivadade, utili
 https://drive.google.com/file/d/1FoPyvV3mjKoRORLj38w3tLG0SihS8Olq/view?usp=sharing
 
 
-## Simulação (não é possível testaro código por causa da conexão)
+## Simulação (não é possível testar o código por causa da conexão)
 https://wokwi.com/projects/458930885448470529
 
 ## Código:
